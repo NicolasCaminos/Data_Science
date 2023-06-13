@@ -62,7 +62,8 @@ No requiere comandos de instalación
 ## FAQs
 
 Fuente usada: COVID-19 Dataset (kaggle):
-<a href: "https://www.kaggle.com/datasets/meirnizri/covid19-dataset?resource=download">Kaggle</a>
+<a href="https://www.kaggle.com/datasets/meirnizri/covid19-dataset?resource=download" target="_blank" rel="noreferrer">https://www.kaggle.com/datasets/meirnizri/covid19-dataset?resource=download</a>
+
 
 <br>
 
